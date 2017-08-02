@@ -3,7 +3,7 @@
 //  SwiftFun
 //
 //  Created by Joe Moriguchi on 7/31/17.
-//  Copyright © 2017 meshology. All rights reserved.
+//  Copyright © 2017 meshology. All rights reserved...
 //
 
 import UIKit
